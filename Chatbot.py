@@ -3,9 +3,9 @@ import datetime
 import time
 #Chatbot Memory - Dictionary to store user input and responses
 from DataDictionary import responses
-name = input("Please enter your name: ")
-present_time = datetime.datetime.now().hour
 
+name="Dear User"
+present_time = datetime.datetime.now().hour
 if present_time < 11:
     print(f"Good Morning {name}!")
 
@@ -18,7 +18,6 @@ else:
 
 print("Hi! Welcome to Rule Based Chatbot")
 print("You can ask me basic question, Type 'Bye' to exit from the chat bot")
-
 
 while True:
     #Take user input

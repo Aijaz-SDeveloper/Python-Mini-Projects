@@ -1,6 +1,7 @@
 #Rule Based AI Python Chatbot
 import datetime
 import time
+#Chatbot Memory - Dictionary to store user input and responses
 from DataDictionary import responses
 name = input("Please enter your name: ")
 present_time = datetime.datetime.now().hour
@@ -18,7 +19,7 @@ else:
 print("Hi! Welcome to Rule Based Chatbot")
 print("You can ask me basic question, Type 'Bye' to exit from the chat bot")
 
-#Chatbot Memory - Dictionary
+
 while True:
     #Take user input
     userinput = input("Please ask me your question: ").lower().strip()

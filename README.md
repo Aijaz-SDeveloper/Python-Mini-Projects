@@ -1,3 +1,4 @@
-# Python Mini Projects
+<h1> Python Mini Projects</h1>
+<h2 align="center">🤖 <strong>AI Rule-Based Chatbot</strong></h2>
 
 This repository contains a collection of Python mini-projects developed for learning, practice, and improving practical programming skills. Each project focuses on a specific Python concept such as variables, data types, conditional statements, loops, functions, dictionaries, lists, user input, pattern programming, and basic problem-solving. The repository also includes a **Rule-Based Chatbot** that uses a separate **Data Dictionary** to maintain predefined questions and responses, demonstrating how application logic can be separated from data. These projects are designed to strengthen Python fundamentals and provide hands-on experience with writing clean, simple, and reusable Python code. I will continue adding new mini-projects as I learn more advanced Python concepts, automation, APIs, data handling, and Artificial Intelligence technologies.
